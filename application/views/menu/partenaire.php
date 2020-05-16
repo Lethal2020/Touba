@@ -1,0 +1,19 @@
+<div class="musica-music-artists-area d-flex flex-wrap clearfix">
+        <!-- Music Search -->
+        <div class="music-search bg-img bg-overlay2 wow fadeInUp" data-wow-delay="300ms" style="background-image: url(<?php echo base_url('ressources/img/bg-img/bg-9.jpg');?>);">
+            <!-- Content -->
+            <div class="music-search-content">
+                <h2>Music</h2>
+                <h4>Search for the best music</h4>
+            </div>
+        </div>
+
+        <!-- Artists Search -->
+        <div class="artists-search bg-img bg-overlay2 wow fadeInUp" data-wow-delay="600ms" style="background-image: url(<?php echo base_url('ressources/img/bg-img/bg-1.jpg');?>);">
+            <!-- Content -->
+            <div class="music-search-content">
+                <h2>Artists</h2>
+                <h4>Search for the best artists</h4>
+            </div>
+        </div>
+    </div>
